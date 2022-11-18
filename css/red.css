@@ -1,0 +1,17 @@
+body {
+    background-image: url('../img/rojo.jpg');
+    /*AL HACER SCROLL ASIA ABAJO LA IMG SIGA Y NO SE DEFORME*/
+    background-attachment: fixed;
+}
+
+#logo {
+    background: #dd250c;
+}
+
+#menu ul li:hover {
+    background: #ee7717;
+}
+
+.button-more {
+    background: #ff4c06;
+}

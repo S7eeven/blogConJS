@@ -1,0 +1,17 @@
+body {
+    background-image: url('../img/cielo.jpg');
+    /*AL HACER SCROLL ASIA ABAJO LA IMG SIGA Y NO SE DEFORME*/
+    background-attachment: fixed;
+}
+
+#logo {
+    background: #114beb;
+}
+
+#menu ul li:hover {
+    background: #114beb;
+}
+
+.button-more {
+    background: #114beb;
+}
